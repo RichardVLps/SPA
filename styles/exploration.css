@@ -1,0 +1,21 @@
+.bg-exploration {
+    background: url(../src/bg-exploration.png) center / cover no-repeat;
+}
+
+.exploration-content {
+    margin: 6.3rem 0 0 10.2rem;
+    max-width: 64.8rem;
+}
+
+.exploration-title {
+    color: var(--h1);
+    font-size: 4.8rem;
+    font-weight: 700;
+    margin-bottom: 1.6rem;
+}
+
+.exploration-text {
+    color: var(--gray);
+    font-size: 1.8rem;
+    font-weight: 400;
+}

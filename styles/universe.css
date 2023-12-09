@@ -1,0 +1,21 @@
+.bg-universe {
+    background: url(../src/bg-universe.png) center / cover no-repeat;
+}
+
+.universe-content {
+    margin: 6.3rem 0 0 10.2rem;
+    max-width: 64.8rem;
+}
+
+.universe-title {
+    color: var(--h1);
+    font-size: 4.8rem;
+    font-weight: 700;
+    margin-bottom: 1.6rem;
+}
+
+.universe-text {
+    color: var(--gray);
+    font-size: 1.8rem;
+    font-weight: 400;
+}
